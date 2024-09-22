@@ -1,4 +1,4 @@
-package com.example.desginpattern.StructPattern
+package com.example.desginpattern.BehaviralPattern
 
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
